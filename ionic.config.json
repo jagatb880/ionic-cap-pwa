@@ -1,0 +1,7 @@
+{
+  "name": "Cap Native Plugins",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

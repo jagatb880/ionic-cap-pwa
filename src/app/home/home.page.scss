@@ -1,0 +1,21 @@
+ion-card {
+    height: 14vh;
+}
+// ion-col {
+//     height: 100px;
+// }
+ion-list {
+    background: var(--ion-color-secondary);
+}
+
+// .md,
+.ios {
+    ion-segment {
+        // --background: var(--ion-color-primary-contrast);
+        ion-segment-button {
+            --indicator-color: var(--ion-color-primary);
+            --color: var(--ion-color-dark);
+            --color-checked: var(--ion-color-primary-contrast);
+        }
+    }
+}
